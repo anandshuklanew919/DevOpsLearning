@@ -1,1 +1,2 @@
 This is test fileA
+This is a change to this filegit status
